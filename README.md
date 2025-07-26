@@ -1,6 +1,3 @@
-# Blog-Website
-
-## for index.html , style.css and main.js follow up with the video
 # MDHK TC Blogs ✍️
 
 A personal blogging platform created by MDHK, focusing on tech insights, tutorials, and creative writing.  
